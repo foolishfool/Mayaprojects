@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Autodesk_Cache_File>
+  <cacheType Type="OneFilePerFrame" Format="mcx"/>
+  <time Range="250-30000"/>
+  <cacheTimePerFrame TimePerFrame="250"/>
+  <cacheVersion Version="2.0"/>
+  <extra>untitled</extra>
+  <extra>maya 2016</extra>
+  <extra>fooli</extra>
+  <Channels>
+    <channel0 ChannelName="outputCloth1" ChannelType="FloatVectorArray" ChannelInterpretation="positions" SamplingType="Regular" SamplingRate="250" StartTime="250" EndTime="30000"/>
+  </Channels>
+</Autodesk_Cache_File>
