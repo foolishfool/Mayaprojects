@@ -52,3 +52,6 @@ Assignment/data/animation_character_idle.atom
 *.avi
 *.iff
 Assignment/renderData
+Assignment/cache/nCache/environment_spot1/object_camp_export2_outputCloth1.xml
+Assignment/cache
+Assignment/images
